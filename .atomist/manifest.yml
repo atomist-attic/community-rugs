@@ -2,3 +2,7 @@ group: "atomsit"
 artifact: "community-rugs"
 version: "0.1.0"
 requires: "[1.0.0-m.1,2.0.0)"
+
+# use [0,) for latest
+extensions:
+- "com.atomist.rug:rug-function-http:[0,)"

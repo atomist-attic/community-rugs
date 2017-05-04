@@ -11,3 +11,16 @@ generator:
     - "owner": "atomsit"
     - "description": "Rugs for atomist-community Slack team"
 
+---
+kind: "operation"
+client: "rug-cli 1.0.0-m.1"
+editor:
+  name: "AddTypeScriptCommandHandler"
+  group: "atomist"
+  artifact: "rug-rugs"
+  version: "0.30.0-20170427011430"
+  parameters:
+    - "intent": "latest versions"
+    - "handlerName": "GetLatestVersions"
+    - "description": "Displays the latest versions for rug and rugs"
+
