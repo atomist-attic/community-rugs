@@ -1,7 +1,6 @@
 # community-rugs
 
 [![Build Status](https://travis-ci.org/atomsit/community-rugs.svg?branch=master)](https://travis-ci.org/atomsit/community-rugs)
-[![Slack Status](https://join.atomist.com/badge.svg)](https://join.atomist.com)
 
 [rug]: http://docs.atomist.com/
 
